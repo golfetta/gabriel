@@ -1,0 +1,37 @@
+body {
+    color: black;
+    background-color: bisque;
+    font-family: Georgia, 'Times New Roman', Times, serif
+    
+    }
+    ul {
+        display: flex;
+        justify-content: space-between;
+        list-style-type: none ;
+        align-items: center;
+        padding: 16px;
+    }
+    
+    a{
+        color: black;
+        text-decoration: none;
+    }
+
+    header img{
+        width: 170px;
+        height: 170px;
+        border-radius: 10%;
+        border: 2px solid black;
+    }
+
+    .center {
+        text-align: center;
+    }
+
+    .container {
+padding: 0px 50px;
+    }
+
+    nav a:hover {
+        color: antiquewhite;
+    }

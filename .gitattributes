@@ -1,2 +1,6 @@
 # Auto detect text files and perform LF normalization
 * text=auto
+git remote add origin https://github.com/golfetta/gabriel
+git add imagens/ 
+git commit -m "Adicionando fotos"
+git push -u origin master
